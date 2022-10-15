@@ -1,0 +1,7 @@
+print("Make a matrix 2x2 with python")
+
+Matriks_A = [[11,21], [51,61]]
+Matriks_B = [[31,41], [71,81]]
+
+print (Matriks_A)
+print (Matriks_B)
